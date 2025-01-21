@@ -4,7 +4,7 @@
     "output": "box.log",
     "timestamp": true
   },
-  "dns": {
+           "dns": {
     "servers": [
       {
         "tag": "dns-remote",
@@ -36,8 +36,8 @@
       {
         "domain": "clients3.google.com",
         "server": "dns-remote",
-        "rewrite_ttl": 3000
-      },
+                 "rewrite_ttl": 3000
+                  },
       {
         "domain_suffix": ".ir",
         "server": "dns-direct"
@@ -112,8 +112,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Berlin § 1",
-      "detour": "Tehran § 0",
+               "tag": "Berlin § 1",
+               "detour": "Tehran § 0",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:897b:9c3:13fb:7b2c:8cae/128"
