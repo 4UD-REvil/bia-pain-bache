@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+package.json
+package-lock.json
+
+# Build output
+dist
+build
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Other files we don't want to format
+result.csv
+warp.json
+vless/hiddify/WarpOnWarp.json
+
+
+
+# Specific directories
+.github/
+DNS over HTTPS/
+edge/
+sub/
