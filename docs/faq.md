@@ -26,8 +26,7 @@
 - باید داخل تنظیمات اپلیکیشن `remote DNS` رو اینجوری بذارید:
   > `https://8.8.8.8/dns-query` > `https://9.9.9.9/dns-query`
   > یا
-  > `https://94.140.14.14/dns-query` > `tcp://185.228.168.9`
-  > <br>
+  > `https://94.140.14.14/dns-query` > `tcp://185.228.168.9` > <br>
 
 4- چرا کانفیگ فرگمنت روی اپراتور من سرعتش کمه؟
 
@@ -36,8 +35,7 @@
   >
   > `Length: 10-30`
   >
-  > `Length: 1-2`
-  > <br>
+  > `Length: 1-2` > <br>
 
 OR
 
@@ -45,8 +43,7 @@ OR
 >
 > `Length: 100-200`
 >
-> `Length: 10-20`
-> <br>
+> `Length: 10-20` > <br>
 
 OR
 
@@ -54,8 +51,7 @@ OR
 >
 > `Length: 1403`
 >
-> `Length: 1`
-> <br>
+> `Length: 1` > <br>
 
 5- چرا Ping من انقدر بالاست؟
 
@@ -123,8 +119,7 @@ OR
 - بخاطر اینکه Proxy IP های پیشفرض پنل عمومی هستن و ممکنه خیلیاشون برای ChatGPT مشکوک باشن. از لینک زیر باید بگردید تست کنید و یه IP مناسب برای خودتون بردارید:
   > [Find proxyIP](https://www.nslookup.io/domains/ipdb.rr.nu/dns-records/)
   >
-  > [Find proxyIP](https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/)
-  > <br>
+  > [Find proxyIP](https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/) > <br>
 
 17- پسورد پنل یادم نمیاد چیکار کنم؟
 

@@ -30,8 +30,7 @@
 <h3>$$\color{#a5a5a5} \Large \text{The panel offers two deployment options:}$$</h3>
 
 > [Worker **deployment**](docs/worker_installation_fa.md)  
-> [Pages **deployment**](docs/pages_installation_fa.md)
-> <br><br>
+> [Pages **deployment**](docs/pages_installation_fa.md) > <br><br>
 
 ## Features
 
